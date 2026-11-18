@@ -1,0 +1,1 @@
+Parole PWA v5. Uruchom index.html do testu. Do GitHub wgraj wszystkie pliki z paczki.

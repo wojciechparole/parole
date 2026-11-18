@@ -1,0 +1,9 @@
+{
+  "name": "Parole - włoskie słówka",
+  "short_name": "Parole",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f3ed",
+  "theme_color": "#315f4c",
+  "lang": "pl"
+}
